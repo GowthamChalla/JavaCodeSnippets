@@ -16,6 +16,9 @@ public class ArrayListExample3_Class {
 		
 		System.out.println(al);
 		
+		
+		
+		System.out.println("\n\n Use for loop to display records one at a time.");
 		for (Employee e : al)
 		{
 			System.out.println(e);
