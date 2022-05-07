@@ -31,10 +31,10 @@ public class TreeSetExample1_Class {
 			System.out.print(si.next()+ " ");
 		}
 		
-		System.out.println("\n\n1. Insertion Order is Preserved. "
+		System.out.println("\n\n1. Insertion Order is not Preserved. "
 				+ "\n2. null vlaues are not allowed. Java Null Pointer exception."
 				+ "\n3. Duplicate Values are Removed."
-				+ "");
+				+ "\n4. Elements are sorted");
 		
       
 
