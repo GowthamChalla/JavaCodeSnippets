@@ -15,5 +15,4 @@ public class ArrayClassExample1_Class {
 		System.out.println(Arrays.toString(arr));		
 
 	}
-
 }
