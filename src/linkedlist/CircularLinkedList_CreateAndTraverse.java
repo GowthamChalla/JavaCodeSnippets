@@ -6,11 +6,12 @@ public class CircularLinkedList_CreateAndTraverse {
 	{
 	  LinkedList ll = new LinkedList();
 	  
-	  ll.pushToCircularLinkedList(100);	
-	  ll.pushToCircularLinkedList(200);	
-	  ll.pushToCircularLinkedList(300);	
-	  ll.pushToCircularLinkedList(400);	
-	  ll.pushToCircularLinkedList(500);	
+	  
+	  ll.pushToCircularLinkedList(100);
+	  ll.pushToCircularLinkedList(200);
+	  ll.pushToCircularLinkedList(300);
+	  ll.pushToCircularLinkedList(400);
+	  	
 	
 	  
 	  ll.printCC();
