@@ -10,7 +10,6 @@ public class EncapsulationExample1
 	  e1.setSalary(10100);
 	  
 	  System.out.println(e1.getEmpno()+" - "+e1.getName()+" - "+e1.getSalary());
-
 	}
 }
 class Employee
