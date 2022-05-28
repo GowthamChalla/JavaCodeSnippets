@@ -1,5 +1,4 @@
 package multithreading;
-
 public class MultiThreadingApplicationWithRunnableInterface implements Runnable
 {
 	public void run()
