@@ -1,4 +1,4 @@
-package multithreading;
+ package multithreading;
 import java.lang.Thread;
 
 public class MutiThreadedApplicationwithMoreThan2ThreadswithdifferentSleeptime extends Thread
