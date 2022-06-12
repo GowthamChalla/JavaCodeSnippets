@@ -21,7 +21,11 @@ public class ArrayListExample2_Class
 		ArrayList<Integer> al = new ArrayList<>();
 		al.add(101);
 		al.add(102);
-		al.add(103);	
+		al.add(103);
+		al.add(101);
+		al.add(102);
+		al.add(103);
+	
 
 	    System.out.println("Display All Elements");
 	    System.out.print(al);

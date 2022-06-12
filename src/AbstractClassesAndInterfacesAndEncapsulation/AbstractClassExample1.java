@@ -8,15 +8,17 @@ public class AbstractClassExample1 {
         obj.print();
         obj.show();
         
+        
         B obj1 = new B();
         obj1.print();
-        obj1.show();        
+        obj1.show();  
+        
 	}
 }
 abstract class A
 {
 	public abstract void print();
-	
+	private int a = 10;
 	public void show()
 	{		
 		System.out.println("A Class - Show method");
@@ -28,6 +30,7 @@ class B extends A
 	public void show()
 	{		
 		System.out.println("B Class - Show method");
+		
 	}
 	
 	public void print()

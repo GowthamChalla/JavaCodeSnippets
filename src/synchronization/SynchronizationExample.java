@@ -10,10 +10,8 @@ public class SynchronizationExample extends Thread
        c1.start();
        
        customer2 c2 = new customer2(x);
-       c2.start();
-       
+       c2.start();       
 	}
-
 }
 class Bank
 {

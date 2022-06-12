@@ -24,7 +24,8 @@ public class ArrayDequeExample1_Class
 		ad.addFirst(30);
 		ad.addLast(250);
 		ad.addFirst(20);
-		ad.addLast(20);		
+		ad.addLast(20);	
+		
 		
 		for (int a : ad)
 		{
